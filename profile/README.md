@@ -71,8 +71,7 @@ KakaoFunding 서비스는 "카카오 선물하기"를 클론 코딩하면서 펀
 
 ### 🧱 시스템 아키텍처
 
-<img width="1667" alt="image" src="https://github.com/KakaoFunding/KakaoFunding/assets/93575221/cbfbe21a-669c-4818-b564-16cd49e839da">
-
+![](../assets/system_architecture.png)
 
 ### 🎨 디자인
 

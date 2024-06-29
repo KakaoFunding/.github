@@ -35,7 +35,7 @@ KakaoFunding 서비스는 "카카오톡 선물하기"를 클론 코딩하면서 
   |<img src="https://github.com/ohgus.png" width="100"/><br/>오명석|프론트엔드 개발||https://github.com/ohgus|
   |<img src="https://github.com/uraflower.png" width="100"/><br/>이미림|프론트엔드 개발|uraflower@ajou.ac.kr|https://github.com/uraflower|
   |<img src="https://github.com/devkyoung2.png" width="100"/><br/>황보경|프론트엔드 개발|devkyoung2@gmail.com|https://github.com/devkyoung2|
-  |<img src="https://github.com/kmw2378.png" width="100"/><br/>김민우|백엔드 개발||https://github.com/kmw2378|
+  |<img src="https://github.com/kmw2378.png" width="100"/><br/>김민우|백엔드 개발|rlarla677@gmail.com|https://github.com/kmw2378|
   |<img src="https://github.com/hwan2-99.png" width="100"/><br/>김태환|백엔드 개발|thh1233123@gmail.com|https://github.com/hwan2-99|
   |<img src="https://github.com/YeaChan05.png" width="100"/><br/>신예찬|백엔드 개발||https://github.com/YeaChan05|
 

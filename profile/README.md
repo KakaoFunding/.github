@@ -1,16 +1,14 @@
 # 🎁 KakaoFunding
-
-<div align="center">
   
-[![application](https://img.shields.io/badge/Application-feeb00?style=for-the-badge)](https://www.kakaofunding.kro.kr/)
-[![github wiki](https://img.shields.io/badge/github_wiki-010409?style=for-the-badge)](https://github.com/KakaoFunding/.github/wiki)
-[![frontend repository](https://img.shields.io/badge/FE_Repo-61DAFB?style=for-the-badge)](https://github.com/KakaoFunding/front-end)
-[![backend repository](https://img.shields.io/badge/BE_Repo-6DB33F?style=for-the-badge)](https://github.com/KakaoFunding/back-end)
-</div>
+- [KakaoFunding 바로가기](https://www.kakaofunding.kro.kr/)
+- [github wiki 바로가기](https://github.com/KakaoFunding/.github/wiki)
+- [frontend repository 바로가기](https://github.com/KakaoFunding/front-end)
+- [backend repository 바로가기](https://github.com/KakaoFunding/back-end)
+
 
 ## 프로젝트 개요
 
-KakaoFunding 서비스는 "카카오톡 선물하기"를 클론 코딩하면서 펀딩 기능을 추가한 서비스입니다. 
+KakaoFunding 서비스는 "[카카오톡 선물하기](https://gift.kakao.com/home)" 웹사이트를 클론 코딩하면서 펀딩 기능을 추가한 서비스입니다. 
 사용자가 선물 받고 싶은 고가의 상품에 대한 부담을 덜 수 있도록 펀딩 기능을 제공하여, 여러 사람이 함께 선물 비용을 분담할 수 있게 합니다. 
 
 
@@ -32,12 +30,12 @@ KakaoFunding 서비스는 "카카오톡 선물하기"를 클론 코딩하면서 
 
   |이름|역할|email|github|
   |:---:|:---:|:---:|:---:|
-  |<img src="https://github.com/ohgus.png" width="100"/><br/>오명석|프론트엔드 개발||https://github.com/ohgus|
+  |<img src="https://github.com/ohgus.png" width="100"/><br/>오명석|프론트엔드 개발|anakin3740@gmail.com|https://github.com/ohgus|
   |<img src="https://github.com/uraflower.png" width="100"/><br/>이미림|프론트엔드 개발|uraflower@ajou.ac.kr|https://github.com/uraflower|
   |<img src="https://github.com/devkyoung2.png" width="100"/><br/>황보경|프론트엔드 개발|devkyoung2@gmail.com|https://github.com/devkyoung2|
   |<img src="https://github.com/kmw2378.png" width="100"/><br/>김민우|백엔드 개발|rlarla677@gmail.com|https://github.com/kmw2378|
   |<img src="https://github.com/hwan2-99.png" width="100"/><br/>김태환|백엔드 개발|thh1233123@gmail.com|https://github.com/hwan2-99|
-  |<img src="https://github.com/YeaChan05.png" width="100"/><br/>신예찬|백엔드 개발||https://github.com/YeaChan05|
+  |<img src="https://github.com/YeaChan05.png" width="100"/><br/>신예찬|백엔드 개발|qkenrdl05@kumoh.ac.kr|https://github.com/YeaChan05|
 
 <br/><br/>
 
@@ -66,7 +64,7 @@ KakaoFunding 서비스는 "카카오톡 선물하기"를 클론 코딩하면서 
    - ![SpringBoot](https://img.shields.io/badge/SpringBoot-3.2.2-6DB33F?logo=springboot)
    - ![JPA](https://img.shields.io/badge/JPA-5c666c),![Query Dsl](https://img.shields.io/badge/Query_Dsl-0089cf),![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?logo=springsecurity&logoColor=white)
 7. IDE & Tool
-    - FE : ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode), ![Vitee](https://img.shields.io/badge/Vite-646CFF?logo=Vite&logoColor=white)
+    - FE : ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode), ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=Vite&logoColor=white)
     - BE : ![intelliJ](https://img.shields.io/badge/intelliJ-000000?logo=intelliJidea),![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-3178C6?logo=mysql&logoColor=white)
 
 <br/><br/>
@@ -74,8 +72,5 @@ KakaoFunding 서비스는 "카카오톡 선물하기"를 클론 코딩하면서 
 ### 🧱 시스템 아키텍처
 
 ![System Architecture](../assets/system_architecture.png)
-
-### 🎨 디자인
-
 
 
